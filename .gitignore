@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+
+# Large Database Files (Add this line!)
+data/inventory.db
